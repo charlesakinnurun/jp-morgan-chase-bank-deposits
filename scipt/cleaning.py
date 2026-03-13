@@ -4,7 +4,7 @@ import pandas as pd
 df = pd.read_csv("datasets/chase.csv")
 
 # Fill missing "Acquired Data" values with "Not Acquired"
-df["Acquired Date"] = df["Acquired Date"].fillna("Not Acquired")
+# df["Acquired Date"] = df["Acquired Date"].fillna("Not Acquired") 
 
 # Drop rows with missing Latitude or Longitude
 df.dropna(subset=["Latitude","Longitude"],inplace=True)
@@ -20,12 +20,12 @@ df["Established Date"] = pd.to_datetime(df["Established Date"],errors="coerce")
 
 # Convert "Acquired Date" to datetime objects, handling the "Not Acquired" string
 # The "errors=coerce" argument will turn "Not Acquired" into a missing value (NaT)
-df["Acquired Date"] = pd.to_datetime(df["Acquired Date"],errors="coerce")
+# df["Acquired Date"] = pd.to_datetime(df["Acquired Date"],errors="coerce")
 
 # Rename columns for consistency
 df.rename(columns={
     "Established Date": "established_date",
-    "Acquired Date" : "acquired_date",
+    # "Acquired Date" : "acquired_date",
     "Street Address" : "street_address",
     "Branch Name" : "branch_name",
     "Zipcode" : "zipcode",
@@ -47,5 +47,5 @@ df.rename(columns={
 },inplace=True)
 
 # Save the Cleaned Data
-df.to_csv("datasets/chase_cleaned.csv")
+df.to_csv("datasets/chase_cleaned.csv",index=False)
 print("Saved Successfully")
