@@ -39,6 +39,8 @@
     | JPMorgan Chase Bank     | 0          | Lake Forest Branch | 7988 | 1/1/2016 | 5660 Read Blvd | New Orleans | Orleans | LA | 70127 | 30.03205 | -89.97260 | NaN | NaN | NaN | NaN | NaN | NaN | 94133 |
     | JPMorgan Chase Bank     | 0          | Buffalo-Mm Branch | 7989 | 1/1/2016 | 350 Main Street | Buffalo | Erie | NY | 14202 | 42.88429 | -78.87487 | NaN | NaN | NaN | NaN | NaN | NaN | 45596 |
 
+    <a href="datasets\chase.csv">Check out the raw data</a>
+
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 - <h4><a href="/scipt/cleaning.py">Data Preprocessing</a></h4>
@@ -53,6 +55,8 @@
     - Rename columns for consistency
     - Save the Cleaned Data
 
+    <a href="/scipt/cleaning.py">Check out the cleaning script</a>
+
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 - Data Loading
@@ -64,6 +68,9 @@
     | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
     | JPMorgan Chase Bank | 0 | Lake Forest Branch | 7988 | 1/1/2016 | 5660 Read Blvd | New Orleans | Orleans | LA | 70127 | 30.03205 | -89.97260 | 0 | 0 | 0 | 0 | 0 | 0 | 94133 |
     | JPMorgan Chase Bank | 0 | Buffalo-Mm Branch | 7989 | 1/1/2016 | 350 Main Street | Buffalo | Erie | NY | 14202 | 42.88429 | -78.87487 | 0 | 0 | 0 | 0 | 0 | 0 | 45596 |
+
+
+    <a href="datasets\chase_cleaned.csv">Check out the cleaned data</a>
 
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
@@ -154,6 +161,7 @@
     | DC    | 0                     |
 
 
+    <a href="datasets\state_deposit.csv">Check out the data</a>
 
 
     ![question1](/assets/question1.png)
@@ -186,7 +194,7 @@
     
 
 
-
+    <a href="datasets\top_5_branches_deposit_2014.csv">Check out the data</a>
 
     ![question2](/assets/question2.png)
 
@@ -220,6 +228,8 @@
     | Philadelphia             | 0.000000e+00             |
     | District of Columbia     | 0.000000e+00             |
 
+
+    <a href="datasets\average_deposits_per_county.csv">Check out the data</a>
 
     ![question3](/assets/question3.png)
 
@@ -262,6 +272,8 @@
     | 2008              | 18                 |
 
 
+    <a href="datasets\branches_established_each_year.csv">Check out the data</a>
+
 
     ![question4](/assets/question4.png)
 
@@ -294,6 +306,8 @@
     | Detroit Main Branch              | 12546146       |
     | One Utah Branch                  | 8415454        |
 
+
+    <a href="datasets\top_5_branches_growth_2010_2016.csv">Check out the data</a>
 
 
     ![question5](/assets/question5.png)
@@ -335,6 +349,8 @@
     | Bay Meadows Branch                         | 2007-11-13       |
 
 
+    <a href="datasets\branch_florida_2000.csv">Check out the data</a>
+
 ---
 
 
@@ -370,6 +386,8 @@
 
 
 
+    <a href="datasets\top_10_states_by_branch.csv">Check out the data</a>
+
     ![question7](/assets/question7.png)
 
 
@@ -395,7 +413,7 @@
     | 165            |
 
 
-
+    <a href="datasets\number_branches_bank.csv">Check out the data</a>
 
 ---
 
@@ -425,3 +443,5 @@
     | Amarillo          | -48956             |
     | Elk Grove Village | -68374             |
     | Park City         | -3505400           |
+
+    <a href="datasets\branch_diff_2010_2016.csv">Check out the data</a>
