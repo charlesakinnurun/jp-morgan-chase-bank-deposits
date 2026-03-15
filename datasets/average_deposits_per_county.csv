@@ -1,0 +1,356 @@
+county,average_deposits_2015
+"New York",1684862.9194
+Harris,549881.4610
+Cook,501710.3750
+Denver,493559.8571
+"Salt Lake",426866.4400
+Milwaukee,402529.5833
+Wayne,372683.8413
+Hidalgo,282938.0000
+"San Francisco",279522.7727
+DuPage,253778.1667
+"East Baton Rouge",234248.1379
+Smith,233127.0000
+Orleans,208640.2727
+Gillespie,203603.0000
+Kings,186904.4286
+Cameron,179168.5000
+"Los Angeles",176551.6359
+Boulder,175705.1250
+"San Mateo",173427.0714
+"Santa Clara",172764.7632
+Maricopa,163664.1927
+Champaign,161387.6667
+"Santa Cruz",160914.6667
+Dane,156722.4000
+Travis,155264.0870
+Comal,153938.0000
+Marin,153868.3333
+Alameda,151420.1724
+Nassau,149753.7538
+Sangamon,143675.0000
+Union,143419.0000
+Gregg,142992.0000
+Marion,140706.3968
+Richmond,139607.3333
+Washtenaw,136870.3750
+Oakland,135632.7692
+Pinal,134969.5000
+"Fort Bend",132570.3333
+Shasta,131596.0000
+Imperial,129539.0000
+Kane,128768.9000
+Queens,128744.4750
+Ector,127713.0000
+Graham,126474.0000
+Miami-Dade,125819.7358
+Fairfield,124718.5938
+Suffolk,124273.9583
+Upshur,124250.0000
+"Santa Barbara",122422.2000
+Westchester,122221.7027
+Galveston,121024.6667
+Cochise,118855.0000
+Yuma,118269.6667
+Rockland,117236.6818
+Yolo,116905.5000
+"St. Bernard",116091.0000
+Cuyahoga,115711.0000
+"El Paso",115677.2941
+Navarro,115655.0000
+Lapeer,115330.0000
+Orange,114572.7113
+"San Diego",114535.3151
+"New Haven",113987.5000
+Ventura,113894.4737
+Gila,113873.0000
+Tarrant,113587.8571
+Mohave,112555.2000
+Jefferson,112320.6275
+Nevada,111758.5000
+Morris,111098.6087
+Macomb,109401.2667
+Tippecanoe,106185.3333
+Arapahoe,105995.1429
+Essex,105167.0000
+Modoc,104145.5000
+Cabell,103833.0000
+"Contra Costa",103016.6087
+King,101055.3205
+Riverside,100999.8148
+Collin,100141.0870
+Summit,100047.9412
+Kenosha,100008.8000
+Lake,99366.1111
+Denton,98788.8462
+Yavapai,98649.8750
+"San Benito",97009.0000
+"San Luis Obispo",96958.7143
+Bergen,96585.8462
+"St. Tammany",96466.0000
+Franklin,96071.7368
+Broward,95299.1613
+Montgomery,95276.9394
+"Palm Beach",94277.0000
+Hendricks,94138.0000
+Dallas,93961.5349
+Hamilton,93810.7059
+Caddo,93616.8182
+Ingham,93192.0000
+Yuba,93021.0000
+Napa,92939.5000
+Monroe,92173.2500
+Ozaukee,91966.0000
+"San Bernardino",91490.3200
+Butte,91176.5000
+Stanislaus,88624.1429
+Hunt,88210.0000
+Pima,88153.7500
+Collier,87955.0000
+Monterey,87722.2857
+Ocean,87117.3333
+Outagamie,86483.5000
+Delaware,85561.7273
+Will,83408.0000
+Wichita,82952.0000
+"Indian River",82897.0000
+Merced,82013.5000
+Utah,81949.5000
+Lee,81712.0000
+Bronx,81416.6000
+Navajo,81192.0000
+Larimer,80832.8333
+Elkhart,80777.7778
+Passaic,79668.4000
+Fayette,79117.0000
+Lafayette,78861.2667
+"St. Charles",78383.0000
+Waukesha,78120.4615
+Sacramento,77645.6667
+Tulsa,77204.9000
+Inyo,77172.0000
+Livingston,76531.7500
+Sonoma,76240.9000
+Martin,76002.5000
+Placer,75778.7500
+Ascension,75648.0000
+Grayson,75133.0000
+Middlesex,75102.6667
+Allen,74943.6316
+Onondaga,74932.0000
+McLean,74750.0000
+Kent,74499.3182
+Bell,74147.0000
+Geauga,73249.6667
+Pickaway,73149.0000
+Raleigh,72685.0000
+Multnomah,72544.6471
+Monmouth,72343.0000
+"Grand Traverse",72085.2500
+Davis,71785.5000
+Walworth,71389.5000
+Somerset,71027.5000
+Adams,70277.5000
+Oklahoma,70231.3125
+Putnam,69855.0000
+"St. Clair",69215.7500
+Terrebonne,69091.0000
+Calcasieu,68903.0833
+Sutter,68534.5000
+Ontario,68472.0000
+Weld,68357.0000
+Logan,67528.5000
+Kern,67493.6250
+Muskegon,67285.0000
+McHenry,67246.4286
+Bossier,67063.7500
+Johnson,66575.7500
+Winnebago,66429.0833
+Ashland,66307.0000
+Manatee,66136.5000
+Porter,66082.7500
+Hudson,65696.3636
+Sarasota,65624.0000
+Athens,65606.6667
+"Fond du Lac",65242.0000
+Fulton,65072.0000
+Kalamazoo,65059.0000
+Medina,64580.0000
+Boone,64526.2500
+Lawrence,64408.0000
+Coconino,64044.0000
+Portage,63903.0000
+Brazoria,63574.0000
+Williamson,63512.7778
+Madera,63316.0000
+Kanawha,62983.7500
+Stevens,62774.0000
+Stark,62611.5833
+Weber,62365.0000
+Washington,62131.7600
+"El Dorado",62110.0000
+Whitman,60822.0000
+Tulare,60323.6667
+Seminole,59641.6250
+Ottawa,58785.0000
+Clark,58735.3953
+Mahoning,58710.4286
+Snohomish,58676.7727
+"St. John the Baptist",58012.0000
+Humboldt,57668.0000
+Rapides,57468.5000
+Brown,57182.0000
+Mendocino,57047.6667
+Ohio,56613.0000
+Genesee,56063.1818
+Grant,55872.0000
+Brevard,55745.6000
+Daviess,55138.0000
+Hernando,55131.0000
+"La Porte",55047.0000
+Trumbull,54909.3750
+Solano,54771.0000
+McLennan,54632.5000
+"San Joaquin",54199.8889
+Eaton,54129.0000
+Fresno,53736.6667
+Deschutes,53658.4000
+Warren,53616.6667
+Berrien,53179.0000
+Ouachita,53099.7000
+Clallam,52958.5000
+Clackamas,52891.2308
+"Del Norte",52867.0000
+Rockwall,52354.0000
+Whatcom,51840.0000
+Ulster,51695.0000
+"St. Joseph",51484.0000
+Oswego,51007.0000
+Iberia,51003.5000
+Potter,50170.3333
+Butler,50120.4000
+"St. Lucie",49804.2500
+Greene,49758.8571
+Beauregard,49686.0000
+Sussex,49382.2500
+Douglas,49275.1667
+Sullivan,48794.0000
+Midland,48715.5000
+Lewis,48711.0000
+Canadian,48535.0000
+Whitley,47852.0000
+Emmet,47761.5000
+Racine,47758.2500
+Pierce,47635.3333
+Kitsap,47590.2857
+Dutchess,47590.0000
+Cowlitz,47536.0000
+Morrow,47521.0000
+Osceola,47353.2500
+Rock,46884.5000
+Bexar,46854.5000
+Taylor,46524.6667
+Madison,46154.0000
+Miami,46149.0000
+Harrison,46072.3750
+Jackson,45913.5556
+Cleveland,45520.5000
+"Walla Walla",45449.0000
+"La Paz",45442.0000
+Hillsborough,45079.6000
+Saginaw,45028.0000
+Benton,44655.4000
+Boyle,44240.0000
+Pasco,44214.0000
+Thurston,44045.7500
+Tuscarawas,43708.4000
+Langlade,43664.0000
+Island,43576.0000
+Richland,43010.3333
+"St. Landry",42487.5000
+Floyd,42215.6667
+Lincoln,42015.0000
+Linn,41931.6667
+Spokane,41835.6667
+Forsyth,41581.0000
+Shelby,41277.8333
+Kootenai,40956.0000
+Columbiana,40937.3333
+Licking,40839.8000
+Hardin,40681.6667
+Pinellas,40626.0000
+Volusia,40260.5000
+Clermont,40064.8333
+Roscommon,39902.7500
+Peoria,39724.3333
+Hancock,39522.0000
+Hunterdon,39037.0000
+Josephine,38948.0000
+Darke,38901.0000
+Curry,38094.5000
+Cobb,38020.2500
+"Rock Island",37894.0000
+Siskiyou,37819.0000
+Campbell,37774.5000
+Yakima,37600.2500
+Lane,37356.3750
+Yamhill,36509.0000
+Chelan,35865.0000
+Kalkaska,35345.0000
+Charlevoix,35087.0000
+Kenton,35077.0000
+Muskingum,34991.6667
+Duval,34889.0000
+Lafourche,34843.3333
+Preble,34730.0000
+Morgan,34453.0000
+Coshocton,34027.5000
+Columbia,33952.5000
+Lorain,33872.7500
+Ada,33464.4000
+Noble,33401.0000
+Polk,32169.6667
+Okanogan,31990.0000
+Mercer,31949.0000
+Klamath,30927.5000
+Oldham,30501.0000
+Hockley,30400.0000
+Cache,29831.0000
+Skagit,29289.0000
+Scott,28704.0000
+Dodge,28651.5000
+Sanilac,28373.6667
+Cherokee,28279.0000
+Wyandot,28115.0000
+Calhoun,27761.0000
+Calumet,27696.0000
+Crook,27405.0000
+Mason,26829.0000
+Waupaca,26047.0000
+Henry,25987.0000
+Bonneville,25921.0000
+Auglaize,25845.0000
+Gwinnett,25844.1667
+Canyon,25430.0000
+Clayton,24474.0000
+Rockdale,23942.0000
+Elmore,23789.0000
+Latah,23765.0000
+Tuscola,23579.0000
+Jessamine,23138.0000
+Leelanau,22619.0000
+DeKalb,22507.0000
+Shiawassee,22182.5000
+"Twin Falls",21786.0000
+Kittitas,21568.0000
+Vermilion,21322.0000
+Paulding,20746.0000
+"Grays Harbor",20669.0000
+Belmont,19813.6667
+Coos,18142.0000
+Malheur,17182.0000
+"Box Elder",15071.0000
+Bannock,13251.0000
+Tangipahoa,13239.0000
+Philadelphia,0.0000
+"District of Columbia",0.0000
