@@ -1,0 +1,1554 @@
+city,deposit_difference
+Houston,37149291
+"New York City",31687570
+Chicago,17992604
+Detroit,12724043
+"Salt Lake City",8824071
+"Los Angeles",5938570
+Phoenix,4748365
+"San Francisco",4741844
+Brooklyn,4099729
+Seattle,2578889
+Miami,2161052
+Dallas,2067198
+Indianapolis,2034079
+Austin,1702945
+"San Diego",1688887
+Milwaukee,1436557
+"San Jose",1200614
+"Baton Rouge",1194186
+Rochester,1010186
+Louisville,988778
+Columbus,849957
+Winnetka,794519
+Bronx,776458
+Cincinnati,762113
+"Boca Raton",741070
+Irvine,726006
+Scottsdale,706969
+Plano,685805
+Madison,668919
+Orlando,656891
+"Las Vegas",628516
+"Fort Worth",594707
+Boulder,587615
+Tucson,562993
+Portland,553556
+"Santa Monica",537971
+Bellevue,526899
+"Ann Arbor",523002
+Mesa,517727
+"Staten Island",511106
+"Park Ridge",480698
+Hollywood,470491
+Shreveport,468762
+"The Woodlands",455110
+Flushing,454749
+"Mount Prospect",444741
+Arcadia,444500
+Reynoldsburg,435631
+Irving,434400
+"Grand Rapids",433413
+"Hacienda Heights",430480
+Sunnyvale,424318
+Lafayette,423859
+Arlington,419690
+Fremont,416341
+"Sugar Land",412054
+"San Antonio",406142
+Glendale,400864
+"Palo Alto",396897
+Richardson,392981
+Evanston,387822
+Dublin,380315
+Sacramento,379865
+Cleveland,377722
+Aurora,377607
+"Beverly Hills",376917
+Bloomington,375470
+Scarsdale,375354
+Torrance,374309
+Oakland,370137
+"Great Neck",366940
+Cupertino,356702
+"Mountain View",356390
+"Long Beach",353928
+Huntington,353715
+Alhambra,351849
+"White Plains",346554
+Aventura,340951
+"New Orleans",336885
+Pasadena,335645
+Lakewood,335543
+"Miami Beach",331400
+Naperville,330428
+Katy,326902
+Troy,323931
+"Arlington Hts.",320710
+Carmel,317934
+"Fort Wayne",309239
+Glenview,307333
+Tempe,302326
+Garland,299564
+Lexington,289289
+"Oklahoma City",287410
+Monroe,286263
+Northridge,285622
+Yonkers,283485
+"Sunny Isles Beach",276315
+Burbank,271003
+Schaumburg,269555
+Atlanta,269232
+Ridgewood,268961
+Canton,267729
+"Grosse Pointe",266658
+"West Lafayette",256517
+Bloomingdale,253527
+Flint,253397
+Hewlett,253211
+Encino,251547
+"Walnut Creek",249936
+"Newport Beach",249688
+"Temple City",248335
+Akron,244002
+Willowbrook,243786
+Westminster,238648
+Champaign,233327
+Fairfield,232979
+"LA Jolla",230632
+Bedford,230405
+Corona,230034
+Hialeah,226401
+Niles,225855
+Larchmont,224106
+Kingwood,222016
+"Palm Beach Gardens",221029
+"Rochester Hills",217271
+Deerfield,215933
+"Huntington Beach",215324
+Temecula,214071
+"Santa Clara",212903
+Englewood,212005
+"West Palm Beach",210957
+"Lake Zurich",210521
+Chandler,209945
+Libertyville,209192
+Riverside,208525
+Greenwich,206628
+Frisco,206436
+"St. Charles",206196
+Monsey,205500
+"Sherman Oaks",202907
+"Oak Park",202870
+Hicksville,200551
+Wilmette,199444
+"Dana Point",198919
+Lansing,198703
+"Bloomfield Hills",197748
+"Mission Viejo",197584
+"Studio City",195947
+Southampton,195874
+Venice,195724
+Spring,192553
+Secaucus,191396
+"Santa Ana",191080
+"Santa Barbara",190637
+"Diamond Bar",190113
+"Downers Grove",189517
+Tustin,189478
+Peoria,189182
+Skokie,188526
+Salinas,188199
+Kenosha,187323
+"Morris Plains",186897
+Syosset,186295
+Denver,185140
+Dearborn,184677
+"Monterey Park",184541
+"Manhattan Beach",182802
+Henderson,182639
+Carlsbad,181958
+"New Rochelle",180972
+"Lake Forest",180829
+Morristown,180520
+Cypress,180069
+Houma,179777
+Cerritos,178912
+"El Paso",177070
+Milpitas,176921
+Woodridge,176808
+Berkeley,176801
+"Lake Worth",176152
+"Orland Park",175489
+Metairie,174620
+"Farmington Hills",173630
+"Westlake Village",173074
+Calabasas,171983
+"Garden Grove",171197
+Sarasota,170759
+"Daly City",170422
+"Culver City",169986
+"Santa Rosa",168705
+Fresno,168543
+Elgin,168291
+Saginaw,166148
+"Fountain Valley",165959
+Vancouver,165881
+Hinsdale,165704
+Mamaroneck,165037
+Tulsa,164630
+"San Leandro",163742
+"Laguna Niguel",163424
+"Coral Gables",162933
+"Chino Hills",162128
+"Elk Grove",161908
+"Oak Brook",161256
+Rye,160967
+"San Mateo",160905
+"Garden City",159319
+Warren,158339
+Appleton,157620
+Colleyville,156918
+Tarzana,154407
+"West Covina",154337
+"Union City",153620
+Carrollton,153235
+Elkhart,152711
+Batavia,152045
+"Port Washington",150775
+Montclair,150451
+"Deer Park",148734
+"Fort Collins",148407
+Northville,147762
+Dayton,147426
+Orem,147208
+Plainview,146687
+Ventura,146347
+Syracuse,146145
+Ridgefield,146053
+"Coral Springs",145798
+"Granada Hills",145480
+"San Gabriel",145182
+"North Hollywood",144979
+Jamaica,144938
+Redmond,143720
+Naples,142904
+"Sterling Heights",142677
+Westerville,142326
+Mansfield,142243
+"Carol Stream",142125
+Salem,141683
+Edgewater,141554
+"Forest Hills",141447
+"El Cajon",141227
+Lewisville,140875
+"South Richmond Hill",140534
+Plymouth,139550
+Brookfield,138916
+Wheaton,138392
+Metuchen,138233
+"Flower Mound",138199
+"Buffalo Grove",137729
+"Rancho Cucamonga",137716
+"Fort Lee",137487
+Gilbert,137122
+"Yorba Linda",136979
+"West Bloomfield",136832
+"San Marino",136689
+Smithtown,136559
+"New City",136545
+Nogales,136537
+Bayside,136035
+Valparaiso,135990
+Orange,135986
+Bensenville,135967
+Edmond,135860
+Medford,135180
+"San Clemente",134528
+"Valley Stream",133157
+Tampa,132924
+Pleasanton,132546
+"Auburn Hills",131616
+Upland,131382
+Gahanna,130946
+Brea,130876
+Millbrae,130520
+"Colorado Springs",130160
+"Huntington Station",129916
+Fullerton,129386
+Beaverton,129378
+"South Pasadena",129342
+"Rye Brook",129221
+Davis,129191
+Miramar,129166
+Norridge,128333
+Astoria,127788
+"Agoura Hills",127512
+"LA Grange",126559
+"Shelby Township",126473
+"Lake Charles",125888
+Littleton,124898
+"Imperial Beach",124669
+Valencia,124451
+"Van Nuys",124055
+Yuma,123745
+"Fort Lauderdale",123739
+"East Farmingdale",123651
+"Los Altos",123435
+"Corte Madera",123431
+Poughkeepsie,122871
+Novi,122400
+"Aliso Viejo",122309
+Fontana,121998
+Muncie,121939
+Allen,121918
+Whitestone,121429
+Hawthorne,121169
+Friendswood,121070
+"Woodland Hills",120801
+"Jackson Heights",120793
+"Jersey City",120361
+Westfield,120194
+"Hoffman Estates",120149
+Elmhurst,119837
+Nanuet,119829
+Randolph,119464
+Alameda,119321
+"Dearborn Heights",119193
+Maspeth,119004
+Livonia,118842
+Centerville,118726
+"Boynton Beach",118706
+Mandeville,118272
+"Pacific Palisades",118251
+"West Babylon",117909
+"Highland Park",117268
+"Fair Lawn",117089
+"East Meadow",116966
+Lyndhurst,116440
+Lima,116098
+Downey,115954
+Stamford,115758
+"Huntington Woods",115754
+Issaquah,115558
+Boise,115531
+Kirkland,115354
+Springfield,114629
+Clarkston,113539
+"San Bruno",113113
+Loveland,113098
+Lemont,112673
+Campbell,112472
+Encinitas,111910
+Greenvale,111683
+Hauppauge,111415
+Renton,111232
+Novato,111220
+Paramus,109845
+Pinecrest,109736
+Edison,109454
+Franklin,109453
+"Marina Del Rey",109272
+Plantation,109130
+Frankfort,109087
+Bakersfield,108906
+"Grand Prairie",108895
+Bend,108782
+Bronxville,108637
+"Redwood City",108605
+Anaheim,108075
+"Traverse City",108071
+"San Carlos",108004
+Westport,107825
+"Laguna Hills",107705
+Palatine,107248
+Coronado,107116
+Tarrytown,106995
+Melville,106862
+"Coconut Creek",106691
+Sedona,106639
+"Los Gatos",106441
+Gurnee,106045
+Orangeburg,105194
+Coppell,105154
+"Round Rock",104860
+Berwyn,104448
+"Redondo Beach",104144
+Montrose,102410
+Marysville,102398
+Surfside,102007
+"Clinton Township",101836
+"San Ramon",101796
+Manhasset,101166
+Waukesha,100821
+"Missouri City",100627
+Richmond,99969
+Napa,99951
+Bolingbrook,99439
+"Rolling Hills",99161
+"Thousand Oaks",98785
+"Yorktown Heights",98563
+Teaneck,98399
+"Pembroke Pines",98393
+Highland,98292
+"West Hills",98266
+"New Haven",97954
+"Gig Harbor",97767
+"Arlington Heights",97759
+"Buena Park",97583
+Newark,97464
+"Palisades Park",97184
+Summit,96955
+"LA Mirada",96949
+Waterford,96242
+Hoboken,96212
+Sunrise,95849
+"Castro Valley",95126
+"El Centro",94924
+Airmont,94600
+Munster,94544
+"Hickory Hills",94376
+Webster,93703
+"Sierra Vista",93690
+Croton-On-Hudson,93592
+"Deerfield Beach",93339
+Melbourne,93008
+Azusa,92908
+"LA Canada",92514
+"Del Mar",92372
+"West Jordan",92291
+Denton,91125
+"East Rutherford",91064
+"Bay Shore",90937
+Carson,90772
+Escondido,90744
+Kissimmee,90648
+"Miami Lakes",90535
+"East Hampton",90489
+Fairport,90441
+Weston,90257
+"Highlands Ranch",90038
+"Porter Ranch",89753
+"Green Bay",89567
+Clermont,89390
+"Cooper City",89389
+Palmdale,89277
+Urbana,89203
+Stockton,89114
+"Orchard Lake",89037
+Livermore,88904
+Portage,88767
+Shorewood,88699
+Oxford,88636
+Commack,88606
+Northfield,88553
+Pearland,88403
+Sunnyside,88325
+Whittier,88187
+"Foster City",87898
+"Pompano Beach",87848
+"LA Habra",87836
+"Cleveland Heights",87822
+Modesto,87247
+Prescott,87209
+Brighton,87017
+Millwood,86836
+Concord,86448
+"Schiller Park",86343
+"Seal Beach",86239
+Somers,86225
+"LA Mesa",85759
+Fishers,85757
+"Oakland Park",85755
+"New Canaan",85371
+Lindenhurst,85247
+Fenton,85058
+Greenbrae,84833
+Farmington,84677
+Greenwood,84653
+"Lake Havasu City",84554
+Noblesville,84373
+Burlingame,84326
+"Greenwood Village",84271
+Ronkonkoma,84122
+Odessa,83280
+Sandy,83201
+Chappaqua,83107
+Jupiter,82781
+Wapakoneta,82342
+Riverwoods,82241
+Riverhead,82156
+Oceanside,81717
+"Oak Lawn",81360
+Malibu,81073
+"Massapequa Park",80913
+Murphy,80771
+"Port Saint Lucie",80527
+"North Miami Beach",80481
+Northbrook,80449
+Danville,80387
+"Federal Way",80360
+Powell,80348
+"Menlo Park",80149
+Peekskill,79907
+Keller,79720
+Westlake,79640
+"River Edge",79568
+"San Pedro",79216
+Davison,79176
+Provo,79142
+"San Juan Capistrano",79133
+"Short Hills",78723
+"Altamonte Springs",78567
+Camarillo,78560
+Ardsley,78275
+Bothell,77422
+Clovis,77166
+"Pinellas Park",76932
+Conroe,76833
+"Bedford Hills",76640
+Sammamish,76623
+Bonita,76485
+Sparta,76460
+Murray,76351
+"Grass Valley",76026
+Edmonds,75585
+Murrieta,75345
+Euless,74659
+Ashland,74656
+Merrick,74645
+"Glen Oaks",74413
+"Morgan Hill",74404
+"Spring Valley",74312
+Marietta,74283
+Clifton,74112
+Antioch,74060
+"San Marcos",73925
+Lynnwood,73743
+Garfield,73081
+"El Segundo",72640
+Bellaire,72507
+Visalia,71723
+Chatsworth,71428
+"Kew Gardens",70821
+Southfield,70797
+Parsippany,70786
+Folsom,70716
+Eugene,70663
+"Chula Vista",70463
+Carefree,70156
+"Canoga Park",69770
+Eastchester,69530
+Roswell,69346
+"Lake Orion",69323
+Rutherford,69198
+"Winter Park",69089
+Wellington,69047
+"Rancho Mirage",68854
+"Crystal Lake",68676
+"Spring Hill",68619
+Beachwood,68453
+Brentwood,68441
+Brewster,68438
+"Sun Valley",68430
+Middletown,67391
+Alexandria,67381
+Hesperia,67243
+Glendora,67119
+Selden,67102
+Bellflower,66775
+Chico,66707
+Lodi,66497
+Hartsdale,66490
+Wauconda,66357
+"South Bend",66259
+"Rancho Santa Margarita",66106
+Fredericksburg,65933
+Plainfield,65932
+Belleville,65719
+"West Caldwell",65578
+Riverdale,65192
+Wayne,64960
+Medina,64949
+Athens,64865
+"Old Bridge",64862
+"Costa Mesa",64602
+"San Rafael",64570
+Claremont,64408
+Avondale,64386
+"North Massapequa",64356
+Sayville,64218
+Zionsville,64056
+Oxnard,63920
+Worthington,63906
+"Sierra Madre",63901
+"Moreno Valley",63848
+"Lake Oswego",63817
+Eagle,63305
+Pittsford,63103
+"San Luis Obispo",62920
+"New Brunswick",62842
+Kent,62836
+Monrovia,62811
+Addison,62791
+Vista,62781
+Islip,62743
+Mckinney,62480
+Mesquite,62479
+"East Elmhurst",62254
+"Los Alamitos",62210
+Bohemia,62013
+"Wesley Chapel",61959
+Fallbrook,61691
+Longview,61687
+"Bossier City",61441
+Nyack,61435
+"Portola Valley",61402
+Bellmore,61087
+"Commerce Township",60988
+Auburn,60952
+"Mount Vernon",60667
+Farmingville,60513
+"North Canton",60164
+"San Dimas",59762
+Redford,59666
+Hackensack,59582
+Tracy,59487
+"Paso Robles",59442
+Independence,59434
+"Pico Rivera",59388
+"El Cerrito",59288
+Hazlet,59150
+Wantagh,59054
+Findlay,58933
+Spokane,58910
+Stratford,58895
+Eastvale,58839
+"Canyon Country",58637
+"Pleasant Hill",58336
+Gilroy,58010
+Westbury,57974
+Beavercreek,57915
+"Hopewell Junction",57820
+"Farmers Branch",57769
+"El Monte",57739
+"Highland Village",57553
+Twinsburg,57548
+Hammond,57393
+Westland,57305
+"LA Puente",57130
+Owensboro,57068
+"East Hanover",56976
+"Upper Montclair",56951
+"Middle Village",56908
+Hillsboro,56863
+Marion,56848
+Mukilteo,56844
+Tomball,56502
+Liverpool,56471
+Racine,56423
+"Cave Creek",56205
+"Simi Valley",56025
+Hudson,55729
+Reseda,55703
+Alpine,55420
+Kenner,55354
+"Kings Park",55097
+"LA Quinta",55087
+"Melrose Park",55029
+"Bainbridge Island",54999
+Newburgh,54976
+Wildomar,54857
+Covington,54843
+Kingston,54734
+"Delray Beach",54247
+"Green Valley",54182
+Copiague,54093
+"East Northport",54063
+Harahan,53958
+Arvada,53947
+Strongsville,53931
+"Lewis Center",53630
+Oviedo,53427
+Flagstaff,53422
+"Foothill Ranch",53383
+Manasquan,53135
+"St. John",53046
+"Lake In The Hills",53031
+Norwalk,52722
+Babylon,52586
+"Rockaway Park",52473
+"Florham Park",52264
+"Panorama City",52193
+Greeley,52185
+Huntley,52100
+"Casa Grande",51448
+"Winter Springs",51202
+"Mercer Island",51043
+Redlands,50819
+"Newbury Park",50804
+Mequon,50764
+Midland,50751
+Germantown,50723
+Turlock,50656
+Hastings-On-Hudson,50499
+Watauga,50485
+"Fountain Hills",50306
+Hayward,50053
+Katonah,49936
+"New Berlin",49924
+Monticello,49886
+Chardon,49869
+"Sun City West",49733
+"West Islip",49582
+Alpharetta,49482
+Emeryville,49392
+"LA Crescenta",49119
+Newcastle,49013
+"Walled Lake",48971
+Norman,48910
+"Rocky Point",48903
+Rowlett,48893
+"Pepper Pike",48844
+Woodinville,48828
+Newtown,48814
+Saugus,48748
+"Dobbs Ferry",48724
+Dover,48694
+"Ladera Ranch",48585
+"Brownstown Township",48583
+Bellingham,48578
+Verona,48550
+Tujunga,48519
+"Mount Sinai",48508
+Wauwatosa,48311
+Garnerville,48293
+Poway,48170
+"Crown Point",48121
+Lapeer,47889
+"Arroyo Grande",47875
+"Ozone Park",47604
+Mentor,47537
+Florence,47512
+Northport,47393
+"Show Low",47303
+Puyallup,47242
+Lancaster,47164
+"Rohnert Park",47122
+Bellport,46942
+Montebello,46865
+Jacksonville,46816
+Painesville,46812
+Milford,46727
+Roseville,46606
+Joliet,46526
+Harvey,46360
+Bountiful,46359
+Hollis,46287
+"Mount Kisco",46230
+"Merritt Island",46226
+Clearwater,46218
+Hollister,46127
+"Valley Cottage",46098
+Decatur,45875
+Apopka,45771
+Everett,45723
+Cary,45717
+Warrenville,45655
+Harrison,45649
+"De Witt",45611
+"Lathrup Village",45556
+Petoskey,45360
+Smyrna,45305
+"Mill Creek",45305
+"Grosse Pointe Farms",45273
+"Yuba City",45195
+Lakeside,45166
+"Gold River",45149
+"Fort Salonga",45020
+Chino,44995
+Gonzales,44892
+Somerville,44823
+Slidell,44801
+Winfield,44633
+"West Bend",44432
+"Port Chester",44239
+"Washington Township",44219
+Capitola,43761
+Humble,43758
+"Westhampton Beach",43754
+"Santa Maria",43456
+"Harper Woods",43394
+Santee,43383
+Washingtonville,43339
+"Baldwin Park",43322
+Goshen,43308
+Stuart,43251
+"Stony Brook",43218
+Monterey,43139
+Barrington,43135
+Aptos,43119
+Denville,43062
+Duncanville,42871
+"LA Verne",42806
+"Spring Lake",42796
+"Royal Palm Beach",42741
+Bristol,42719
+Sherman,42625
+"Oak Creek",42447
+Roanoke,42445
+"Chestnut Ridge",42122
+"Pacific Grove",42080
+Sparkill,42060
+"North Bellmore",42053
+Brunswick,41903
+Setauket,41724
+"Miami Springs",41694
+"Rocky River",41687
+"Mc Kinney",41654
+"Land O Lakes",41654
+Richland,41519
+Brandon,41515
+Clackamas,41379
+Chester,41355
+Southport,41254
+Petaluma,41092
+Tiburon,41015
+Hercules,40893
+Irvington,40863
+Pleasantville,40829
+Beaumont,40807
+Newton,40699
+Vacaville,40646
+Lacey,40600
+"West Harrison",40520
+"Roslyn Heights",40516
+Longmont,40502
+Wyckoff,40492
+"Sun City",40328
+Pewaukee,40322
+"East Setauket",40186
+"New Hudson",40184
+Bradenton,40109
+"Floral Park",39923
+Boonton,39913
+Rocklin,39911
+Boardman,39907
+"Santa Clarita",39831
+"League City",39779
+Burlington,39709
+"Solana Beach",39591
+Carpinteria,39583
+"Carle Place",39466
+"Winter Garden",39394
+Yucaipa,39360
+Rockwall,39348
+"Indian Harbour Beach",39230
+"Fort Gratiot",39186
+Norcross,39114
+"Rego Park",39057
+"Grants Pass",38925
+Sidney,38915
+Surprise,38867
+"Fond Du Lac",38838
+"Briarcliff Manor",38806
+Hackettstown,38555
+Elmont,38554
+"Vernon Hills",38519
+"Palm Desert",38402
+"Port Hueneme",38364
+"West Hempstead",38289
+"Cuyahoga Falls",38178
+Lilburn,38162
+"Chagrin Falls",38141
+Schererville,38095
+"Orange City",37889
+Ramona,37705
+"South Gate",37571
+Haledon,37541
+Pullman,37400
+Lorain,37346
+"Oro Valley",37210
+Largo,37132
+Darien,37099
+Elizabethtown,37002
+Wyandotte,36992
+Willoughby,36988
+Okemos,36982
+Streamwood,36956
+Holland,36940
+"Stewart Manor",36935
+"Hampton Bays",36624
+Pickerington,36604
+"Miller Place",36486
+"Pearl River",36277
+"Johns Creek",36269
+"Lake Ronkonkoma",36132
+Waco,36109
+Ada,36088
+Deal,35942
+Rockaway,35938
+"Palos Verdes Estates",35935
+"Cross River",35890
+Glencoe,35883
+"Seven Hills",35857
+Gretna,35767
+"San Bernardino",35764
+Chesterton,35719
+"Mission Hills",35681
+"Saint Cloud",35668
+Lincoln,35586
+Layton,35465
+Montauk,35208
+Shrewsbury,35194
+Altadena,35142
+Temple,35005
+"Saint Petersburg",34963
+"Huntington Park",34752
+"North Olmsted",34732
+Jenison,34635
+"North Las Vegas",34579
+Delaware,34575
+Tacoma,34517
+Midvale,34485
+Sylmar,34479
+"Rolling Meadows",34246
+Danbury,34062
+"Vero Beach",34048
+Rockledge,34032
+Worth,34010
+Ledgewood,33927
+Grandville,33910
+Howell,33895
+"Miami Shores",33710
+Nutley,33664
+Cudahy,33651
+Kingman,33638
+Tyler,33612
+Sanford,33521
+Moorpark,33502
+"Rancho Santa Fe",33366
+Paramount,33350
+"Stevenson Ranch",33342
+"Toms River",33327
+Wilton,33325
+Wallington,33310
+Malverne,33279
+Holbrook,33275
+"Lake Elsinore",33261
+"Stony Point",33201
+"Cedar Park",33166
+"Pleasant Prairie",33094
+Grapevine,32929
+"South Orange",32918
+Woodhaven,32899
+Warwick,32861
+Somerset,32827
+Amityville,32816
+Vallejo,32793
+Draper,32714
+"New Hyde Park",32664
+Burleson,32546
+Freeport,32526
+Chesterfield,32446
+Muskego,32414
+Shoreline,32285
+Mineola,32261
+Watsonville,32139
+Sulphur,32109
+Vernon,31897
+Bridgeport,31726
+Stow,31699
+Marina,31649
+Lynwood,31545
+Hilliard,31543
+Manteca,31532
+"New Lenox",31508
+Martinez,31503
+Ogden,31487
+Wyoming,31475
+Norco,31438
+Muskegon,31421
+"Central Point",31416
+Destrehan,31368
+Avon,31311
+Newhall,31289
+Jericho,31259
+Piscataway,31238
+"West New York",31225
+Sonoma,31209
+Hurst,31074
+Lathrop,31066
+Fishkill,30948
+Ontario,30786
+"Scotts Valley",30751
+Cicero,30730
+Lawrenceville,30585
+Manlius,30492
+"Grove City",30488
+"Bullhead City",30484
+"Jensen Beach",30371
+Congers,30370
+Brightwaters,30338
+Bartlett,30137
+Woodmere,29960
+"Grand Haven",29945
+Inglewood,29782
+Bayport,29772
+Oradell,29736
+Janesville,29626
+Seaford,29585
+Bell,29539
+"Michigan City",29442
+"West Melbourne",29402
+Kenmore,29372
+Payson,29293
+Wadsworth,29242
+"New Paltz",29204
+Canfield,29158
+"Pleasant Valley",29112
+Belmar,28864
+"Crest Hill",28754
+Springboro,28617
+Burien,28511
+Pomona,28472
+"Lake Geneva",28452
+"New Caney",28430
+Wheeling,28181
+"Rockville Centre",28172
+Sellersburg,27971
+Dyer,27908
+Elmsford,27622
+Roscoe,27515
+Elkhorn,27446
+Algonquin,27437
+Mcallen,27435
+"West Monroe",27342
+"Fair Oaks",27334
+Cornwall,27262
+Burton,27176
+"Midland Park",27020
+Hemet,26980
+Flemington,26956
+Suffern,26873
+Longwood,26859
+Parker,26801
+Delafield,26794
+Hanford,26668
+Woodstock,26646
+"Happy Valley",26530
+"New Albany",26462
+Sherwood,26457
+Yukon,26371
+Moline,26337
+Jeffersonville,26316
+Barboursville,26252
+"Bell Gardens",26075
+"Maple Valley",26023
+"West Linn",26014
+Cumming,25941
+Baldwin,25833
+"Moses Lake",25804
+Corvallis,25611
+Yakima,25590
+Poland,25579
+Ypsilanti,25572
+"Cedar Hill",25563
+"Santa Cruz",25531
+Duarte,25458
+Scott,25431
+Seaside,25341
+Shelton,25266
+"Saint Joseph",25266
+Brownsburg,25212
+Victorville,24873
+Tamarac,24830
+"Bowling Green",24758
+Ojai,24685
+"East Rochester",24683
+Pontiac,24667
+"Greenwell Springs",24581
+"Homer Glen",24533
+Paterson,24500
+Albany,24438
+"North Lauderdale",24404
+"Saddle Brook",24393
+Titusville,24313
+"San Pablo",24252
+"Fort Bragg",24249
+Ortonville,24218
+Delano,24105
+"New Vernon",24088
+"South Chicago Heights",24061
+Tigard,24043
+"Allen Park",23947
+Kearny,23826
+Merced,23824
+"Scott Depot",23811
+Brownsville,23687
+Bethpage,23490
+"Comstock Park",23487
+Tukwila,23296
+"Chino Valley",23185
+"East Islip",23028
+"Pine Bush",22822
+Ramsey,22800
+Avenel,22787
+"Crescent Springs",22752
+"River Grove",22731
+Utica,22717
+Dania,22524
+Rialto,22511
+"Lake Grove",22410
+Levittown,22363
+"Coeur D Alene",22327
+"Lake Hiawatha",22299
+Hobart,22290
+Romeoville,22258
+"Fox Point",22252
+Norwood,22181
+Wooster,22131
+Greenport,22127
+"New Windsor",22115
+"Battle Ground",22100
+Ossining,22076
+Hempstead,22060
+Barberton,21995
+Tulare,21952
+"San Fernando",21914
+"Tipp City",21908
+Brockport,21810
+Davie,21786
+"Shrub Oak",21665
+"National City",21646
+Reedley,21604
+Maitland,21589
+"North Patchogue",21509
+"Mohave Valley",21470
+"Huber Heights",21452
+Mentor-On-The-Lake,21444
+Stirling,21432
+"Citrus Heights",21300
+Shelbyville,21258
+Opelousas,21250
+"Swartz Creek",21179
+"Benton Harbor",21148
+Antelope,21141
+Mcdonough,21135
+Snohomish,20999
+Taylor,20994
+Oakley,20931
+"Prescott Valley",20858
+Cottonwood,20849
+Parma,20821
+Atascadero,20805
+Clio,20770
+"Apple Valley",20689
+"North Bergen",20619
+Chesterland,20590
+"Canal Winchester",20560
+Crawfordsville,20545
+Wickenburg,20485
+Gresham,20384
+Thibodaux,20383
+Neenah,20366
+Farmingdale,20339
+"Woodland Park",20338
+Roselle,20245
+Deland,20079
+"Columbia City",20038
+Patchogue,20037
+Safford,20010
+Ocoee,19955
+"Floyds Knobs",19864
+Logan,19813
+Sussex,19676
+Pataskala,19565
+"Fort Pierce",19534
+Lantana,19386
+"Willoughby Hills",19340
+Zachary,19291
+Lowell,19234
+Bayonne,19205
+Nampa,19157
+"Tuxedo Park",19138
+"Hickory Creek",19098
+Calimesa,19037
+"Lithia Springs",19015
+Madera,19006
+"University Place",18976
+Haworth,18933
+Mooresville,18702
+Desoto,18689
+Carmichael,18658
+"Park Forest",18629
+"Lake Forest Park",18566
+Elkview,18546
+Poulsbo,18476
+Berea,18457
+Cocoa,18451
+Acworth,18359
+Wilsonville,18352
+Keizer,18139
+Shirley,18033
+"Fort Thomas",18013
+Sumner,18005
+"Old Greenwich",17949
+Jeffersontown,17813
+"North Babylon",17775
+"Madison Heights",17768
+Oakdale,17754
+Passaic,17731
+Haverstraw,17721
+Meridian,17691
+Uniontown,17686
+"Port St. Lucie",17636
+"Oregon City",17632
+"North Arlington",17605
+"Lake Hopatcong",17501
+Ravenna,17442
+Brookings,17381
+"Island Park",17320
+Uhrichsville,17219
+Romulus,17189
+Jenks,17182
+Granville,17169
+Riverview,17147
+"Greenwood Lake",17137
+"Palm Bay",17078
+"Bradley Beach",17036
+Stanwood,17000
+"New Milford",16927
+Mokena,16825
+Greenville,16800
+"Winter Haven",16765
+"Port Orchard",16748
+Sequim,16685
+Zanesville,16669
+Marrero,16631
+Milan,16522
+Oshkosh,16493
+Conyers,16484
+Crestwood,16469
+Tualatin,16466
+Greenfield,16336
+"Center Moriches",16333
+Vandalia,16295
+"Boyne City",16257
+Willowick,16193
+"Battle Creek",16192
+Wales,16178
+"Cedar Springs",16161
+Wintersville,16135
+"Hyde Park",16054
+"Beech Grove",16036
+Roseland,16035
+Hartville,15989
+"Palm Springs",15797
+Irondequoit,15687
+"North Bend",15656
+Canby,15610
+Carencro,15578
+"North Miami",15477
+Clarksville,15424
+"North Palm Beach",15423
+Casselberry,15344
+"San Lorenzo",15295
+"Midwest City",15245
+"Port Jefferson",15183
+"Shelter Island",15164
+Redding,15093
+Lakeland,15081
+Pasco,15043
+Willits,14983
+"Los Banos",14952
+Wickliffe,14914
+Willcox,14912
+"Port Jervis",14825
+Cloverdale,14747
+Ephrata,14711
+Canandaigua,14697
+"Houghton Lake",14593
+Williamsburg,14585
+Kimball,14538
+Chamblee,14516
+"Saint Albans",14457
+"Elmwood Park",14446
+Oconomowoc,14442
+Goodrich,14382
+"Miami Gardens",14342
+Ammon,14338
+"De Pere",14334
+"Highland Falls",14282
+"Suisun City",14280
+Newberg,14242
+Islandia,14132
+Miamisburg,14086
+Fowlerville,14071
+"Los Osos",13948
+Hiram,13904
+"Port Townsend",13893
+Trumbull,13801
+Abilene,13735
+Montague,13646
+Milwaukie,13607
+Ukiah,13560
+Norton,13554
+"Loves Park",13522
+Stevensville,13513
+Beacon,13492
+Freehold,13487
+Oswego,13423
+Circleville,13399
+"Richland Hills",13354
+Mantua,13352
+Greenacres,13247
+Woodburn,13172
+"Morro Bay",13165
+"Crescent City",13081
+Scottsville,13060
+Deridder,12964
+Pineville,12922
+"Harbor Springs",12911
+"Spanish Fork",12910
+Holiday,12898
+Indio,12850
+Williamson,12838
+Bishop,12812
+Eastlake,12800
+"Lake Stevens",12653
+Washougal,12625
+Alliance,12624
+Massillon,12623
+Chelan,12589
+Bluffton,12548
+Wixom,12433
+Belpre,12311
+"Bee Cave",12277
+Douglasville,12225
+"South Charleston",12194
+Perry,12126
+Piqua,12103
+"Newton Falls",12089
+Columbiana,12069
+Yaphank,12046
+Wurtsboro,12005
+"Cedar Lake",11889
+Castaic,11881
+Seatac,11787
+"St. Marys",11623
+Ruston,11571
+"Eagle Point",11553
+"Apache Junction",11546
+Omak,11529
+Tumwater,11478
+"Des Moines",11470
+"New Iberia",11418
+"New Philadelphia",11401
+Broussard,11399
+Whitehall,11248
+"Mount Shasta",11246
+Chapmanville,11178
+Edgerton,11044
+"Fort Myers",11038
+"Hazel Crest",11017
+Bethel,10979
+Beckley,10879
+Woodland,10865
+Coshocton,10854
+Freeland,10807
+Whiting,10698
+Kouts,10692
+"Lake Station",10652
+Heath,10647
+Thornwood,10632
+Sanger,10561
+"Beaver Dam",10534
+Kennewick,10485
+Xenia,10458
+Scappoose,10402
+Aloha,10325
+Oroville,10136
+Roscommon,10120
+Buckeye,9989
+Oneida,9837
+Tuckahoe,9807
+Butler,9749
+Placerville,9717
+Sunbury,9702
+"Bedford Heights",9662
+Griffith,9640
+Radcliff,9591
+Ellensburg,9528
+Arcata,9491
+"Manitou Springs",9409
+"East Liverpool",9390
+Stayton,9359
+"Moss Bluff",9342
+"Oak Ridge",9268
+Nicholasville,9194
+"Grand Canyon",9163
+Olympia,9065
+Corydon,9056
+Veradale,9026
+Yorktown,8961
+Milton,8929
+Laplace,8926
+Commerce,8895
+Genesee,8803
+Waupaca,8785
+Baytown,8781
+"Mount Sterling",8702
+Oakhurst,8630
+"Gold Beach",8610
+Wenatchee,8527
+Cedar,8378
+"South Houston",8320
+Sunset,8273
+"Powder Springs",8273
+"King City",8209
+"Sheffield Lake",8177
+Euclid,8138
+Fairborn,8138
+Caldwell,8052
+Mcminnville,8046
+Nederland,8020
+Vashon,7988
+"Lauderdale Lakes",7960
+Buckhannon,7948
+"Shady Cove",7844
+Hillside,7739
+"Broken Arrow",7717
+Celina,7576
+Shadyside,7441
+"LA Porte",7394
+Minerva,7368
+"Mount Gilead",7237
+Fairview,7197
+"Twin Falls",7136
+Northglenn,7115
+Chehalis,7021
+Abbeville,6992
+Moscow,6926
+"Klamath Falls",6907
+Pocatello,6891
+Kalkaska,6877
+Cornelius,6831
+Ball,6815
+Enumclaw,6813
+Girard,6799
+Kendallville,6753
+Troutdale,6619
+Pittsburg,6588
+Scottsburg,6486
+Belfair,6483
+Baker,6454
+"North Richland Hills",6442
+Silverton,6377
+Silverdale,6176
+Colville,6158
+Charlestown,6101
+Bellmead,6038
+Taft,5998
+"Desert Hot Springs",5964
+Haughton,5961
+Molalla,5961
+"Franklin Square",5802
+Newport,5730
+"East Wenatchee",5644
+Roseburg,5609
+Amelia,5583
+Prudenville,5427
+"Yucca Valley",5276
+Eaton,5236
+Newcomerstown,5106
+Greenlawn,5091
+Cheney,5027
+Marengo,4997
+"Port Barre",4953
+Byron,4951
+Choctaw,4872
+"Camp Verde",4789
+"New Salisbury",4692
+Prineville,4662
+Marlette,4642
+Bridgman,4591
+Massapequa,4579
+Grandview,4505
+"Mountain Home",4317
+"Idaho Falls",4005
+"Franklin Lakes",3765
+Wyandanch,3689
+"Brigham City",3580
+Lebanon,3451
+Hemlock,3340
+Minoa,3143
+Totowa,3118
+Nappanee,3099
+Lockport,3066
+Raceland,3037
+Freedom,2938
+Kalamazoo,2526
+Larsen,2354
+"West Carrollton",2124
+Yreka,2010
+Watertown,1492
+Inkster,1482
+"Des Allemands",1455
+Vassar,1416
+Gary,1368
+"New Braunfels",1266
+Dequincy,1045
+"New Franken",827
+Macedon,809
+Larose,440
+"St. Helens",437
+Seymour,349
+"Port Angeles",65
+Dresden,56
+Chauvin,9
+Cridersville,0
+"River Forest",0
+"Palm Beach",0
+Philadelphia,0
+Boston,0
+Washington,0
+Phillipsburg,-154
+Sandusky,-198
+Beaver,-233
+Brenham,-275
+"St. Helen",-293
+Lakeport,-966
+Barstow,-1920
+Steubenville,-2028
+Eureka,-2296
+Galliano,-2366
+"Port Arthur",-2619
+"Myrtle Point",-3999
+"Saint George",-4181
+Aberdeen,-4492
+"San Luis",-4644
+"Walla Walla",-4957
+Bremerton,-5091
+Marshall,-5176
+Levelland,-5313
+"Oak Hill",-5636
+Clarksburg,-6834
+Banning,-7283
+Denison,-7905
+Millburn,-8832
+Chalmette,-9520
+"Upper Sandusky",-10930
+Antigo,-12096
+Paradise,-13874
+Corsicana,-18205
+Youngstown,-18855
+Charleston,-22220
+"Port Huron",-24282
+Rockford,-27060
+"Stevens Point",-35694
+"Wichita Falls",-44603
+Merrillville,-46079
+Amarillo,-48956
+"Elk Grove Village",-68374
+"Park City",-3505400
