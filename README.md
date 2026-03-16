@@ -8,13 +8,13 @@
 <h1 align="center">Chase Bank Deposits Trends Analysis</h1>
 
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-
+<!--
 <p>What I learned</p>
 
 -   How to clean and preprocess messy tabular data (fill missing values, convert dates, standardize column names).
 -   How to write SQL queries for aggregation (SUM, AVG, COUNT) and filtering (WHERE, LIKE, GROUP BY).
 -   How to interpret deposit trends across states, counties, and time (growth between 2010–2016).
-
+-->
 
 <p> What I did</p>
 
